@@ -2,8 +2,6 @@
 In this simulation, I Have worked as a junior data analyst in the Forensic Technology team at Deloitte. My task was to investigate potential fraud or financial irregularities in a company’s data.
 
 
-# Deloitte Australia Data Analytics & Forensic Technology Simulation (Forage)
-
 ## 📌 Overview
 
 This project is a part of the **Deloitte Virtual Experience Program** offered through **Forage**. It simulates a real-world scenario where I took on the role of a **Data Analyst** in the **Forensic Technology team** at Deloitte Australia. The goal was to analyze financial data and identify suspicious employee expenses that may indicate potential fraud.
